@@ -1,0 +1,10 @@
+export 'package:app_inicial/screens/alert_screen.dart';
+export 'package:app_inicial/screens/animated_screen.dart';
+export 'package:app_inicial/screens/avatar_screen.dart';
+export 'package:app_inicial/screens/card_screen.dart';
+export 'package:app_inicial/screens/home_screen.dart';
+export 'package:app_inicial/screens/inputs_screen.dart';
+export 'package:app_inicial/screens/listview_builder_screen.dart';
+export 'package:app_inicial/screens/listview1_screen.dart';
+export 'package:app_inicial/screens/listview2_screen.dart';
+export 'package:app_inicial/screens/slider_screen.dart';
